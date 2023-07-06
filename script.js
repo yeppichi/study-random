@@ -35,10 +35,10 @@ function mapel() {
   let materi;
 
   if (acakMapel == 1) {
-    title.innerHTML = "utbk"; // Mengubah innerHTML langsung di sini
+    title.innerHTML = "UTBK"; // Mengubah innerHTML langsung di sini
     materi = acakMateriUtbk();
   } else if (acakMapel == 2) {
-    title.innerHTML = "programming"; // Mengubah innerHTML langsung di sini
+    title.innerHTML = "Programming"; // Mengubah innerHTML langsung di sini
     materi = acakMateriProgramming();
   }
   return materi;
