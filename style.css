@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+  line-height: none;
+}
+
+.card {
+  margin: 18% auto;
+  width: 500px;
+  background-color: #ffc107;
+  color: white;
+}
+
+.card-header {
+  background-color: #e14d2a;
+  color: #ffc107;
+}
+
+.card-title {
+  color: #e14d2a;
+}
+
+.mapel,
+.materi {
+  margin: 0;
+}
+
+#tombol {
+  width: 100%;
+  background-color: #e14d2a;
+}
