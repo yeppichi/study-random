@@ -41,7 +41,7 @@ function mapel() {
     title.innerHTML = "Programming"; // Mengubah innerHTML langsung di sini
     materi = acakMateriProgramming();
   }
-  return materi;
+  // return materi;
 }
 
 function putar() {
